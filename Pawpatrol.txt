@@ -1,6 +1,6 @@
 REM Title:	macOS pawpatrol with terminal payload
 REM Author:	Nils Streedain (Forked and edited by M1-CHAEL)
-REM Description:Opens a rickroll in YouTube in full screen at maximum volume
+REM Description:Opens a pawwd in YouTube in full screen at maximum volume
 REM		as a distraction while another command is run in terminal.
 REM		(Replace terminalCommand with your own command)
 REM Target:	macOS 11.0+
