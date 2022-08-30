@@ -21,3 +21,5 @@ DELAY 1000
 COMMAND TAB
 DELAY 10
 STRING osascript -e 'set volume 7' && terminalCommand && killall Terminal
+DELAY 10
+COMMAND TAB
